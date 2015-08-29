@@ -1,1 +1,3 @@
-this is the inicial Project
+this is the initial Project
+
+This will change the file for feature 1
